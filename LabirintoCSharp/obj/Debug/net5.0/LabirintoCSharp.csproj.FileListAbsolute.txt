@@ -1,0 +1,15 @@
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.exe
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.deps.json
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.runtimeconfig.json
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.runtimeconfig.dev.json
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.dll
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.pdb
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.AssemblyInfoInputs.cache
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.AssemblyInfo.cs
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.dll
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\refint\LabirintoCSharp.dll
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.pdb
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.genruntimeconfig.cache
+C:\Users\guilh\Downloads\LabirintoCSharp-master\LabirintoCSharp-master\LabirintoCSharp\obj\Debug\net5.0\ref\LabirintoCSharp.dll
